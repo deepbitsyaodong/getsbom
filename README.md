@@ -103,3 +103,6 @@ This project is licensed under the MIT License. Please see the `LICENSE` file fo
 ## Support
 
 If you encounter any issues or have any questions about the Deepbits SBOM Scanner GitHub Action, please feel free to contact us at [help@deepbits.com](mailto:help@deepbits.com). We are always happy to help!
+
+
+
